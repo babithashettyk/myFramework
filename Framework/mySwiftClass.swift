@@ -8,6 +8,9 @@
 import Foundation
 public class Test{
     public class func featureOne(){
-    print("one")
+        print("one")
+    }
+    public class func featureTwo(){
+        print("two")
     }
 }
